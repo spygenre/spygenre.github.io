@@ -23,6 +23,7 @@ twitter_username: spygenre
 #github_username:  jekyll
 author: Mojave Crow
 header_pages:
+google_analytics: UA-15235293-5
 
 # Build settings
 markdown: kramdown
