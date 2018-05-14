@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Games"
-date:   2018-05-11 16:39:22 -0700
+date:   2018-05-13 18:00:00 -0700
 ---
 
 #### Video Games
+* [Phantom Doctrine](http://www.goodshepherd.games/games/phantom-doctrine) - '80s-set stealth-action tactics game puts you on the clock to take down a global conspiracy
+* [Defector](https://www.oculus.com/defector/) - Oculus VR game
+* [I Expect You to Die](https://iexpectyoutodie.schellgames.com) - VR game
 * [Spy Party](http://www.spyparty.com)
 * Uplink
-* [Counter Spy](http://www.dynamighty.com) ⊙
+* [Counter Spy](http://www.dynamighty.com)
 * [The 10 Best Hacking, Coding, Computing Games](https://www.rockpapershotgun.com/2017/11/29/best-hacking-games/)
 
 #### Immersive, real-life games

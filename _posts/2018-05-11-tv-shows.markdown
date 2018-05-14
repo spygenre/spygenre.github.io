@@ -1,20 +1,21 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-05-11 16:39:22 -0700
+date:   2018-05-13 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
 * Jack Ryan on Amazon
 * The Spy - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FGI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
 * Mrs Wilson - True life spy drama TV mini-series from BBC
+* The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 
 #### Running
 * The Americans on FX
 * The Blacklist on Netflix
 * Homeland on Showtime
 * Deep State ⊙
-* Killing Eve ⊙
+* Killing Eve on BBC America ⊙
 
 #### Past
 * Fauda on Netflix, Israeli show
@@ -23,17 +24,19 @@ date:   2018-05-11 16:39:22 -0700
 * False Flag
 * Berlin Station
 * Counterpart
-* London Spy
-* Tinker, Tailor, Soldier, Spy - mini-series from BBC
+* London Spy on Amazon Prime, Netflix
 * Spies of Warsaw by BBC on Netflix, based on the Alan Furst book ⊙
 * Alias
 * Covert Affairs
 * Mission: Impossible on Netflix
-* The Game by BBC
+* The Game by BBC on Netflix
 * Rubicon by AMC
-* Tinker, Tailor, Soldier, Spy by BBC (also a book and movie)
 * The Assets on Netflix
 * I Spy
+
+#### From le Carré books
+* Tinker, Tailor, Soldier, Spy by BBC (also a movie)
+* The Night Manager on Amazon Prime
 
 #### Reality Show
 * [Spies](http://www.channel4.com/programmes/spies) - A Channel 4 show ⊙
