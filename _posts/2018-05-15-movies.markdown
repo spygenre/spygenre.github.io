@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-05-13 18:00:00 -0700
+date:   2018-05-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -11,7 +11,8 @@ date:   2018-05-13 18:00:00 -0700
 * Bond 25 (11/08/2019)
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
 * The Angel on Netflix
-* The Operative - an international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures
+* The Operative - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures
+* Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
 
 #### Past
 * Beirut ⊙

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-05-13 18:00:00 -0700
+date:   2018-05-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -9,6 +9,7 @@ date:   2018-05-13 18:00:00 -0700
 * The Spy - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FGI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
 * Mrs Wilson - True life spy drama TV mini-series from BBC
 * The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
+* The Trojan Horse
 
 #### Running
 * The Americans on FX
