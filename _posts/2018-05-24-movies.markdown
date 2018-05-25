@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-05-21 18:00:00 -0700
+date:   2018-05-24 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -9,6 +9,7 @@ date:   2018-05-21 18:00:00 -0700
 * The Catcher Was a Spy (6/22/2018)
 * 355
 * Ironbark
+* Hobbs and Shaw (7/26/2019)
 * Bond 25 (11/08/2019)
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
 * The Angel on Netflix
@@ -20,6 +21,7 @@ date:   2018-05-21 18:00:00 -0700
 * Red Sparrow
 * Atomic Blonde - Based on the graphic novel The Coldest City from Oni Press
 * Unlocked
+* Negative ⊙
 * The Green Prince on Netflix
 * Citizenfour - Snowden documentary
 * Cypher
