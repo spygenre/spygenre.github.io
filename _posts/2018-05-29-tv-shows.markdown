@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-05-15 18:00:00 -0700
+date:   2018-05-29 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -10,6 +10,7 @@ date:   2018-05-15 18:00:00 -0700
 * Mrs Wilson - True life spy drama TV mini-series from BBC
 * The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 * The Trojan Horse
+* Counterpart season 2
 
 #### Running
 * The Americans on FX
@@ -24,8 +25,8 @@ date:   2018-05-15 18:00:00 -0700
 * The Honorable Woman on Netflix, BBC show
 * False Flag
 * Berlin Station
-* Counterpart
-* London Spy on Amazon Prime, Netflix
+* Counterpart - good, unique
+* London Spy on Amazon Prime, Netflix - good, unique
 * Spies of Warsaw by BBC on Netflix, based on the Alan Furst book - straight forward espionage
 * Alias
 * Covert Affairs
