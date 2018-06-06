@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-05-29 18:00:00 -0700
+date:   2018-06-06 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -11,15 +11,16 @@ date:   2018-05-29 18:00:00 -0700
 * The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 * The Trojan Horse
 * Counterpart season 2
+* The Blacklist season 6 on Netflix
+* Homeland season 8 on Showtime
 
 #### Running
-* The Americans on FX
-* The Blacklist on Netflix
-* Homeland on Showtime
+* Condor - Based on Sydney Pollack’s 1975 film "Three Days of the Condor" and James Grady’s novel "Six Days of the Condor" ⊙
 * Deep State ⊙
 * Killing Eve on BBC America ⊙
 
 #### Past
+* The Americans on FX
 * Fauda on Netflix, Israeli show
 * Mossad 101 on Netflix, Israeli show - ending is outstanding
 * The Honorable Woman on Netflix, BBC show
