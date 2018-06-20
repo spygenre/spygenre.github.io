@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-06-10 18:00:00 -0700
+date:   2018-06-20 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
-* The Catcher Was a Spy (6/22/2018)
 * Damascus Cover (7/20/2018)
 * Mission Impossible: Fallout (7/27/2018)
 * Operation Finale (9/14/2018)
@@ -20,7 +19,8 @@ date:   2018-06-10 18:00:00 -0700
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
 * American Radical - Based on 2017 memoir “American Radical: Inside the World of an Undercover Muslim FBI Agent” by Tamer Elnoury and Kevin Maurer (@ScribblerSix)
 
-#### Past
+#### Out
+* The Catcher Was a Spy ⊙
 * Beirut ⊙
 * Red Sparrow
 * Atomic Blonde - Based on the graphic novel The Coldest City from Oni Press
