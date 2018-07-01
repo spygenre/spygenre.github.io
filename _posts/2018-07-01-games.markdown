@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Games"
-date:   2018-05-29 18:00:00 -0700
+date:   2018-07-01 18:00:00 -0700
 ---
 
 #### Video Games
+* [Acid Spy](http://acidspy.com) - First-person stealth shooter set in a cyberpunk universe. Infiltrate heavily guarded bases and take down your enemies with skill and finesse. On Steam.
 * [Safe House](http://www.labs.games) - Go behind the scenes and operate a top-secret safe house in the midst of a shadowy conflict. On Steam.
 * [Phantom Doctrine](http://www.goodshepherd.games/games/phantom-doctrine) - '80s-set stealth-action tactics game puts you on the clock to take down a global conspiracy
 * [Defector](https://www.oculus.com/defector/) - Oculus VR game
