@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-07-04 18:00:00 -0700
+date:   2018-07-11 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -25,7 +25,8 @@ date:   2018-07-04 18:00:00 -0700
 #### Past
 * The Americans on FX
 * Fauda on Netflix, Israeli show
-* Mossad 101 on Netflix, Israeli show - ending is outstanding
+* Mossad 101 season 1 on Netflix, Israeli show - ending is outstanding
+* Mossad 101 season 2 on Netflix ⊙
 * The Honorable Woman on Netflix, BBC show
 * False Flag
 * Berlin Station
