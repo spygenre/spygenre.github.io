@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-07-01 18:00:00 -0700
+date:   2018-07-14 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -20,6 +20,7 @@ date:   2018-07-01 18:00:00 -0700
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
 * American Radical - Based on 2017 memoir “American Radical: Inside the World of an Undercover Muslim FBI Agent” by Tamer Elnoury and Kevin Maurer (@ScribblerSix)
 * Blackbird, @MichaelFlatley's self-financed spy thriller
+* Quandary
 
 #### Out
 * The Catcher Was a Spy ⊙
