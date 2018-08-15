@@ -1,21 +1,19 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-07-14 18:00:00 -0700
+date:   2018-08-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
-* Damascus Cover (7/20/2018)
-* Mission Impossible: Fallout (7/27/2018)
 * Operation Finale (8/29/2018)
 * The Spy Gone North (8/2018)
+* The Angel on Netflix (9/14/2018)
 * 355
 * Ironbark
 * The Rhythm Section (2/22/2019) - Based on Mark Burnell’s Stephanie Patrick novels
 * Hobbs and Shaw (7/26/2019)
 * Bond 25 (11/08/2019)
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
-* The Angel on Netflix
 * The Operative - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
 * American Radical - Based on 2017 memoir “American Radical: Inside the World of an Undercover Muslim FBI Agent” by Tamer Elnoury and Kevin Maurer (@ScribblerSix)
@@ -23,6 +21,8 @@ date:   2018-07-14 18:00:00 -0700
 * Quandary
 
 #### Out
+* Damascus Cover ⊙
+* Mission Impossible: Fallout ⊙
 * The Catcher Was a Spy ⊙
 * Red Sparrow
 * Atomic Blonde - Based on the graphic novel The Coldest City from Oni Press
