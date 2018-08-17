@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-07-11 18:00:00 -0700
+date:   2018-08-17 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -11,6 +11,7 @@ date:   2018-07-11 18:00:00 -0700
 * The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 * The Trojan Horse
 * Counterpart season 2
+* Condor season 2 (2019)
 * The Blacklist season 6 on Netflix
 * Homeland season 8 on Showtime
 * The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller, to be broadcast in autumn this year
