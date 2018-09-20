@@ -1,19 +1,16 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-08-15 18:00:00 -0700
+date:   2018-09-20 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
-* Operation Finale (8/29/2018)
-* The Spy Gone North (8/2018)
-* The Angel on Netflix (9/14/2018)
 * 355
 * Ironbark
 * Asher - Mossad spy turned hitman (12/07/2018)
 * The Rhythm Section (2/22/2019) - Based on Mark Burnell’s Stephanie Patrick novels
 * Hobbs and Shaw (7/26/2019)
-* Bond 25 (11/08/2019)
+* Bond 25 (02/14/2020)
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
 * The Operative - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
@@ -23,6 +20,9 @@ date:   2018-08-15 18:00:00 -0700
 * Red Joan (2019)
 
 #### Out
+* The Angel on Netflix ⊙
+* The Spy Gone North ⊙
+* Operation Finale ⊙
 * Mile 22 ⊙
 * Damascus Cover ⊙
 * The Catcher Was a Spy ⊙
