@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-09-26 18:00:00 -0700
+date:   2018-10-17 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -10,6 +10,7 @@ date:   2018-09-26 18:00:00 -0700
 * Mrs Wilson (2019) - True life spy drama TV mini-series from BBC
 * The Rook (2019) - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 * Condor season 2 (2019)
+* The Enemy Within (2019)
 * The Trojan Horse
 * Counterpart season 2
 * The Secret to a Good Marriage
@@ -22,6 +23,7 @@ date:   2018-09-26 18:00:00 -0700
 
 #### Running
 * Jack Ryan on Amazon
+* Pine Gap ⊙
 
 #### Past
 * The Americans on FX
