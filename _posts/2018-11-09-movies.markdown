@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-09-26 18:00:00 -0700
+date:   2018-11-09 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -22,7 +22,7 @@ date:   2018-09-26 18:00:00 -0700
 * Quandary
 
 #### Out
-* The Angel on Netflix ⊙
+* The Girl in the Spider’s Web ⊙
 * The Spy Gone North ⊙
 * Operation Finale ⊙
 * Mile 22 ⊙
