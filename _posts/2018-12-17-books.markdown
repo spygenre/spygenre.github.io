@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Books"
-date:   2018-11-01 16:39:22 -0700
+date:   2018-12-17 16:39:22 -0700
 ---
 
 * A Single Spy by William Christie ⊙
@@ -30,6 +30,7 @@ date:   2018-11-01 16:39:22 -0700
 * The Last Man in Tehran
 
 #### John le Carré
+* Agent Running in the Field coming 10/22/2019
 * A Legacy of Spies
 * Tinker, Tailor, Soldier, Spy
 
