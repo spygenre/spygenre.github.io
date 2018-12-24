@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2018-12-17 18:00:00 -0700
+date:   2018-12-24 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -12,20 +12,20 @@ date:   2018-12-17 18:00:00 -0700
 * The Enemy Within (2019)
 * The Message (2019)
 * Queen Sono on Netflix (2019)
+* Traitors on Channel 4 and Netflix (early 2019)
 * The Last Spy
 * The Trojan Horse
 * The Secret to a Good Marriage
 * The Blacklist season 6 on Netflix
 * Homeland season 8 on Showtime
 * Surveillance - NSA Spy Drama From @mattreevesLA, intent is to film a pilot later this fall
-* Berlin Station season 3
 * Oblivious - Six-part mini-series from HBO Europe
 * The Night Manager season 2
 
 #### Running
+* Berlin Station season 3
 * Counterpart season 2 ⊙
-* Patriot season 2 on Amazon ⊙
-* 1983 ⊙
+* Patriot season 2 on Amazon - How to defy the rule: "Once is an accident. Twice is a coincidence. Three times is an enemy action." with style.
 * The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller ⊙
 * Pine Gap ⊙
 * Deutschland 86 ⊙
