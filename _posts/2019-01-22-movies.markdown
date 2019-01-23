@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Movies"
-date:   2018-12-17 18:00:00 -0700
+date:   2019-01-22 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
 * 355
 * Ironbark
 * The Rhythm Section (2/22/2019) - Based on Mark Burnell’s Stephanie Patrick novels
+* Red Joan (4/19/2019)
 * Hobbs and Shaw (7/26/2019)
 * Kingsman 3 (11/09/2019)
-* Red Joan (2019)
 * The Red Sea Diving Resort directed by Homeland's Gideon Raff (2019)
 * Bond 25 (02/14/2020)
 * Czech writer and journalist @JaroslavKmenta's book Český Špion (Czech Spy) to be adopted by Fox Searchlight
