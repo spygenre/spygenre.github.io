@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2019-01-23 18:00:00 -0700
+date:   2019-02-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
+* Hanna (3/29/2019) on Prime
 * The Spy (2019) - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
 * Mrs Wilson (2019) - True life spy drama TV mini-series from BBC
 * The Rook (2019) - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
@@ -24,11 +25,11 @@ date:   2019-01-23 18:00:00 -0700
 * The Night Manager season 2
 
 #### Running
-* Berlin Station season 3
+* Berlin Station season 3 ⊙
 * Counterpart season 2 ⊙
 * Patriot season 2 on Amazon - How to defy the rule: "Once is an accident. Twice is a coincidence. Three times is an enemy action." with style.
 * The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller ⊙
-* Pine Gap ⊙
+* Pine Gap
 * Deutschland 86 ⊙
 
 #### Past
