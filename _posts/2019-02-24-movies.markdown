@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2019-01-22 18:00:00 -0700
+date:   2019-02-24 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -15,14 +15,13 @@ date:   2019-01-22 18:00:00 -0700
 * Bond 25 (02/14/2020)
 * Czech writer and journalist @JaroslavKmenta's book Český Špion (Czech Spy) to be adopted by Fox Searchlight
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
-* The Operative - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
 * American Radical - Based on 2017 memoir “American Radical: Inside the World of an Undercover Muslim FBI Agent” by Tamer Elnoury and Kevin Maurer (@ScribblerSix)
 * Blackbird, @MichaelFlatley's self-financed spy thriller
 * Quandary
 
 #### Out
-* Asher - Mossad spy turned hitman ⊙
+* The Operative (now at Berlin Film Festival) - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures ⊙
 * The Girl in the Spider’s Web ⊙
 * The Spy Gone North ⊙
 * Operation Finale ⊙
