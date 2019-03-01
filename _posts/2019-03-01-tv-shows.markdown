@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2019-02-24 18:00:00 -0700
+date:   2019-03-01 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -12,8 +12,8 @@ date:   2019-02-24 18:00:00 -0700
 * Condor season 2 (2019)
 * The Message (2019)
 * Queen Sono on Netflix (2019)
-* Traitors on Channel 4 and Netflix (early 2019)
 * The Sleepers on HBO (2019)
+* unnamed - Russo Brothers are "weaving together multiple storylines within a gigantic fictional universe", with spies at its center - as yet unnamed; production beginning this year with Amazon Studios.
 * The Last Spy
 * The Trojan Horse
 * The Secret to a Good Marriage
@@ -24,6 +24,7 @@ date:   2019-02-24 18:00:00 -0700
 * The Night Manager season 2
 
 #### Running
+* Traitors on Channel 4 and Netflix ⊙
 * The Enemy Within ⊙
 * Berlin Station season 3 ⊙
 * Counterpart season 2 ⊙
