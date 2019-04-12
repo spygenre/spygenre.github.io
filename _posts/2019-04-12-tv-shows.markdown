@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2019-03-06 18:00:00 -0700
+date:   2019-04-12 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
-* Hanna (3/29/2019) on Prime
 * The Spy (2019) - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
 * Mrs Wilson (2019) - True life spy drama TV mini-series from BBC
 * The Rook (summer 2019) - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
