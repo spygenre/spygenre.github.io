@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2019-05-01 18:00:00 -0700
+date:   2019-05-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -12,6 +12,7 @@ date:   2019-05-01 18:00:00 -0700
 * The Message (2019)
 * Queen Sono on Netflix (2019)
 * The Sleepers on HBO (2019)
+* Spy Games - 10 contestants battle it out in the ultimate game of espionage for a $100,000 prize on Bravo
 * unnamed - Russo Brothers are "weaving together multiple storylines within a gigantic fictional universe", with spies at its center - as yet unnamed; production beginning this year with Amazon Studios.
 * Pennyworth
 * Kolymsky Heights - adaptation of Lionel Davidson’s Russian spy thriller 
