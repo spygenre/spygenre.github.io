@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2019-06-25 18:00:00 -0700
+date:   2019-06-27 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -23,6 +23,7 @@ date:   2019-06-25 18:00:00 -0700
 * American Radical - Based on 2017 memoir “American Radical: Inside the World of an Undercover Muslim FBI Agent” by Tamer Elnoury and Kevin Maurer (@ScribblerSix)
 * Blackbird, @MichaelFlatley's self-financed spy thriller
 * Quandary
+* Malko - adapted from Gerard de Villiers' S.A.S. book series
 
 #### Out
 * The Operative (now at Berlin Film Festival) - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures ⊙
