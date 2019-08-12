@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2019-07-15 18:00:00 -0700
+date:   2019-08-12 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -10,13 +10,13 @@ date:   2019-07-15 18:00:00 -0700
 * Jett Day
 * 355
 * Ironbark
-* The Rhythm Section (2/22/2019) - Based on Mark Burnell’s Stephanie Patrick novels
-* Red Joan (4/19/2019)
-* Hobbs and Shaw (7/26/2019)
+* The Rhythm Section (11/22/2019) - Based on Mark Burnell’s Stephanie Patrick novels
 * Kingsman 3 (11/09/2019)
+* The King's Man (02/2020) - Prequel to the Kingsman series
 * The Red Sea Diving Resort directed by Homeland's Gideon Raff (2019)
 * An Officer and a Spy
 * Bond 25 (02/14/2020)
+* Black Widow (05/01/2020)
 * Tenet (07/2020)
 * Czech writer and journalist @JaroslavKmenta's book Český Špion (Czech Spy) to be adopted by Fox Searchlight
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
@@ -27,6 +27,8 @@ date:   2019-07-15 18:00:00 -0700
 * Malko - adapted from Gerard de Villiers' S.A.S. book series
 
 #### Out
+* Spider in the Web ⊙
+* Red Joan ⊙
 * The Operative (now at Berlin Film Festival) - An international espionage thriller from writer/director Yuval Adler and financier Black Bear Pictures ⊙
 * The Girl in the Spider’s Web ⊙
 * The Spy Gone North ⊙
