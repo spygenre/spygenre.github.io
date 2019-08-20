@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2019-07-15 18:00:00 -0700
+date:   2019-08-20 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
-* The Spy (2019) - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
+* The Spy (9/06/2019) - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX).
 * Mrs Wilson (2019) - True life spy drama TV mini-series from BBC
 * The Rook (6/30/2019) - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
 * Condor season 2 (2019)
@@ -20,7 +20,7 @@ date:   2019-07-15 18:00:00 -0700
 * The Last Spy
 * The Trojan Horse
 * The Secret to a Good Marriage
-* The Blacklist season 6 on Netflix
+* The Blacklist season 7 (10/04/2019)
 * Homeland season 8 on Showtime
 * Surveillance - NSA Spy Drama From @mattreevesLA, intent is to film a pilot later this fall
 * Oblivious - Six-part mini-series from HBO Europe
@@ -35,10 +35,10 @@ date:   2019-07-15 18:00:00 -0700
 * Berlin Station season 3 ⊙
 * Counterpart season 2 ⊙
 * Patriot season 2 on Amazon - How to defy the rule: "Once is an accident. Twice is a coincidence. Three times is an enemy action." with style.
-* The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller ⊙
-* Pine Gap
+* The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller
 
 #### Past
+* Pine Gap
 * Jack Ryan on Amazon
 * The Americans on FX
 * Fauda on Netflix, Israeli show
