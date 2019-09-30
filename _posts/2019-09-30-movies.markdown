@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2019-08-12 18:00:00 -0700
+date:   2019-09-30 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -18,6 +18,7 @@ date:   2019-08-12 18:00:00 -0700
 * Bond 25 (02/14/2020)
 * Black Widow (05/01/2020)
 * Tenet (07/2020)
+* The Old Man
 * Czech writer and journalist @JaroslavKmenta's book Český Špion (Czech Spy) to be adopted by Fox Searchlight
 * I Am Pilgrim - An adaptation of the espionage novel trilogy by Terry Hayes
 * Wasp Network - Based on Fernando Morais' book The Last Soldiers of the Cold War
