@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Movies"
-date:   2019-10-10 18:00:00 -0700
+date:   2019-11-15 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -27,6 +27,7 @@ date:   2019-10-10 18:00:00 -0700
 * Blackbird, @MichaelFlatley's self-financed spy thriller
 * Quandary
 * Malko - adapted from Gerard de Villiers' S.A.S. book series
+* Slow Horses
 
 #### Out
 * Spider in the Web ⊙
