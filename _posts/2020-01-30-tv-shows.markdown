@@ -1,33 +1,21 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2020-01-22 18:00:00 -0700
+date:   2020-01-30 18:00:00 -0700
 ---
 
-Yes, need to update this list...
-
 #### Upcoming ⊙
+* Homeland season 8 (2/09/2020) on Showtime
 * Queen Sono on Netflix (2/28/2020)
-* Mrs Wilson (2019) - True life spy drama TV mini-series from BBC
-* The Rook (6/30/2019) - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name
-* Condor season 2 (2019)
-* The Message (2019)
-* The Sleepers on HBO (2019)
-* Tehran (w/t) by Moshe Zonder, writer of Netflix’s Fauda
-* Spy Games - 10 contestants battle it out in the ultimate game of espionage for a $100,000 prize on Bravo
-* unnamed - Russo Brothers are "weaving together multiple storylines within a gigantic fictional universe", with spies at its center - as yet unnamed; production beginning this year with Amazon Studios.
-* Pennyworth
+* Tehran (w/t) by Moshe Zonder, writer of Netflix’s Fauda - A Mossad agent embarks on her first mission as a computer hacker in her home town of Tehran.
 * Kolymsky Heights - adaptation of Lionel Davidson’s Russian spy thriller 
 * The Last Spy
-* The Trojan Horse
-* The Secret to a Good Marriage
-* Homeland season 8 on Showtime
+* The Secret to a Good Marriage - In the wake of their fractured marriage, an elite pair of CIA spies are pushed to their limits both professionally and personally, fighting to save the world while they forge a new kind of relationship for themselves and their son.
 * Surveillance - NSA Spy Drama From @mattreevesLA, intent is to film a pilot later this fall
-* Oblivious - Six-part mini-series from HBO Europe
 * The Night Manager season 2
-* The Capture - BBC One
 * Fortunate Son - CBC
 * Citadel - Amazon
+* Band of Spies - the stories of the Israeli Mossad agents responsible for hunting down members of the Palestinian terror group Black September, following the 1972 Munich Olympics terrorist attack
 
 #### Running
 * The Spy - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX). ⊙
@@ -39,6 +27,13 @@ Yes, need to update this list...
 * Patriot season 2 on Amazon - How to defy the rule: "Once is an accident. Twice is a coincidence. Three times is an enemy action." with style.
 * The Little Drummer Girl - Based on a new adaptation of the John Le Carre spy thriller
 * The Blacklist season 7 ⊙
+* Mrs Wilson - True life spy drama TV mini-series from BBC ⊙
+* The Rook - Supernatural TV Spy Thriller 'The Rook', based on [Daniel O’Malley‘s](https://twitter.com/DenimAlley) novel by the same name ⊙
+* Condor season 2 ⊙
+* The Message ⊙
+* The Sleepers on HBO ⊙
+* Pennyworth ⊙
+* The Capture - BBC One
 
 #### Past
 * Pine Gap
@@ -68,6 +63,7 @@ Yes, need to update this list...
 * The Night Manager on Amazon Prime
 
 #### Reality Show
+* Spy Games - 10 contestants battle it out in the ultimate game of espionage for a $100,000 prize on Bravo
 * [Spies](http://www.channel4.com/programmes/spies) - A Channel 4 show ⊙
 
 #### Other Lists
