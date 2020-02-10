@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TV Shows"
-date:   2020-01-30 18:00:00 -0700
+date:   2020-02-09 18:00:00 -0700
 ---
 
 #### Upcoming ⊙
@@ -16,6 +16,7 @@ date:   2020-01-30 18:00:00 -0700
 * Fortunate Son - CBC
 * Citadel - Amazon
 * Band of Spies - the stories of the Israeli Mossad agents responsible for hunting down members of the Palestinian terror group Black September, following the 1972 Munich Olympics terrorist attack
+* In From the Cold - Netflix, a spy series with a supernatural touch
 
 #### Running
 * The Spy - Six-episode Netflix original drama on Mossad agent executed by Syria, will be written by Gideon Raff, creator of [@SHO_Homeland](https://twitter.com/SHO_Homeland). It also stars [@NoahEmmerich](https://twitter.com/NoahEmmerich), the FBI agent in [@TheAmericansFX](https://twitter.com/TheAmericansFX). ⊙
